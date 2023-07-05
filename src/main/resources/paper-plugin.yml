@@ -1,0 +1,5 @@
+name: DeathInv
+version: '${version}'
+main: com.dbkynd.deathinv.DeathInv
+api-version: '1.20'
+authors: [DBKynd]
